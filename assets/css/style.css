@@ -1,2 +1,16 @@
 /* media queries to make the page responsive */
 /* page width less than 768px, columns stack and be same height */
+body {
+    background-color: rgb(21, 21, 22);
+    color: white;
+}
+h1 {
+    background-color: rgb(101, 99, 99);
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+}
