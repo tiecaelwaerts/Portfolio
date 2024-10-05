@@ -217,29 +217,39 @@
   /* portfolio project images */
   /* TODO: Add portfolio project images here using background images*/
   .run-buddy {
-    background-image: url("C:\Users\tieca\Bootcamp\homework\Portfolio\assets\images\Eagle background.jpg");
+    background-image: url("https://t4.ftcdn.net/jpg/08/08/48/29/360_F_808482917_Cmbbt9IdsU2YTGZxiz59o9kENuueVv1C.jpg");
+    background-position: center;
+    background-size: cover;   
   }
   
   .led-wall {
-    
+    background-image: url("https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg");
+    background-position: center;
+    background-size: cover;    
   }
   
   .react-calc {
-    
+    background-image: url("https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain-768x432.jpg");
+    background-position: center;
+    background-size: cover;    
   }
   
   .pastel-puzzles {
-    
+    background-image: url("https://wallpapercave.com/wp/wp5318314.jpg");
+    background-position: center;
+    background-size: cover;    
   }
   
   .surf-report {
-    
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/811df747792661.58858067f39ac.jpg");
+    background-position: center;
+    background-size: cover;    
   }
   
   /* media queries */
   
   /* media queries for a max-width of 980px */
-  @media screen and (max-width: 980px) {
+  @media screen and (max-width: 768px) {
     header {
       padding: 0 0 10px 0;
       justify-content: center;
