@@ -167,7 +167,6 @@
     font-size: 0.9rem;
   }
   
-  /* feature first portfolio item */
   .flex-item:first-child {
       min-height: 400px;
       flex-basis: 100%;
@@ -214,8 +213,6 @@
     color: var(--secondary);
   }
   
-  /* portfolio project images */
-  /* TODO: Add portfolio project images here using background images*/
   .run-buddy {
     background-image: url("https://t4.ftcdn.net/jpg/08/08/48/29/360_F_808482917_Cmbbt9IdsU2YTGZxiz59o9kENuueVv1C.jpg");
     background-position: center;
